@@ -1,0 +1,8 @@
+The Excel file is my main submission.
+
+
+I am new to Colab, and I have included the link here to get your feedback. The Excel and Colab have the same data and mostly the same formulas.
+
+
+Colab link: 
+https://colab.research.google.com/drive/1fVhyDFzZQMU7Ql60m1f0wVjepeqiaw9o?usp=sharing
